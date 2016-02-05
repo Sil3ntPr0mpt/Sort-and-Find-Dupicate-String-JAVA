@@ -1,4 +1,4 @@
-//Coded by Anuwat Khongchuai A.K.A Sil3ntPr0mpt at TRN-SEC Group.
+//Coded by Anuwat Khongchuai A.K.A Sil3ntPr0mpt from TRN-SEC Group.
 //RMUTSV String Test.
 //This is first part of full code.
 import java.util.Scanner; 
